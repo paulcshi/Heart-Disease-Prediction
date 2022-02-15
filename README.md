@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction
-* Logistic Model 
+* Logistic Model - Lasso Regularization
 * Data preprocessing - Null Value Removal
 * Onehot Encoding using Dummy 
 * Standard Scalar 
